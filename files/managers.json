@@ -1,0 +1,68 @@
+{
+    "luanda": [
+        "Annotations"
+    ],
+    "merlin": [
+        "[EXECUTIVE] Merlin",
+        "[Web] pm-site",
+        "[ID-VERIFY-PIPELINE] finger detector",
+        "[CHESS] Live Demo Executive",
+        "[INHOUSE-TOOLS] NN-Webapp",
+        "[INHOUSE-TOOLS] Annotators app",
+        "[CV] [Qt] OpenCV GUI",
+        "python training lucas",
+        "python training alysson",
+        "unity render diff passport text - kennedy",
+        "Unity Render Passport Text [Template]",
+        "chess board finder eliaquim",
+        "[IOS-APPS] IOS streaming app",
+        "[IOS-APPS] IOS PI app",
+        "[HR] Candidate tests",
+        "[CHATBOT] merlin",
+        "[ID-VERIFY-PIPELINE] Background evaluator",
+        "[ID-VERIFY-PIPELINE] Passport finder",
+        "[CHATBOT] rodrigo",
+        "[BG-CLUB-SITE] frontend",
+        "[INHOUSE-TOOLS] NN-Webapp 2"
+    ],
+    "morris": [
+        "sportsparsers - 22bet",
+        "sportsparsers - esportscalendar",
+        "sportsparsers - unikrn",
+        "Deepgammon",
+        "Runningball Parser",
+        "sportsparsers - unibet",
+        "sportsparsers - tipster.de",
+        "sportsparsers - betway",
+        "sportsparsers - gg.bet",
+        "sportsparsers - matchbook",
+        "matchbook parser - mfilho"
+    ],
+    "victor": [
+        "morris bg data gathering"
+    ],
+    "csaftoiu": [
+        "sportsparsers - pinnacle API",
+        "[OCR] tesseract MRZ reading ",
+        "unity render diff passport text artur",
+        "[CV] [Qt] OpenCV GUI",
+        "unity render different passport text",
+        "[template] unity render passport text",
+        "matchbook parser - mfilho"
+    ],
+    "arturc": [
+        "unity render diff passport text artur"
+    ],
+    "victor-mgr": [
+        "mateus silva bg deep checkers",
+        "Android Camera App rrocha",
+        "bg deep learning aporto",
+        "bg deep checkers rvalentim",
+        "tourney site famador",
+        "tourney site ariel",
+        "tourney site tbarbalho"
+    ],
+    "ariel": [
+        "[BG-CLUB-SITE] frontend"
+    ]
+}
