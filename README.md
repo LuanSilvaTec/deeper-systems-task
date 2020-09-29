@@ -1,7 +1,7 @@
 # Deeper Systems Task
-##Tools
+## Tools
 1. Google Colab
 
-##Libs
+## Libs
 1. Pandas
 2. Json
